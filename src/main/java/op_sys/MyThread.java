@@ -1,6 +1,8 @@
 package op_sys;
 import os.lab1.compfuncs.basic.DoubleOps;
 import os.lab1.compfuncs.basic.Conjunction;
+
+import java.util.Optional;
 import java.util.OptionalDouble;
 
 public class MyThread extends Thread{
